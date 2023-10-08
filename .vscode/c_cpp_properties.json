@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/includes",
+                "C:/Users/evanp/Documents/code/practic-cpp/includes/fltk-1.3.8",
+                "C:/Program Files/fltk-1.3.8/FL",
+                "C:/Users/evanp/Documents/code/practic-cpp/includes/fltk-1.3.8/FL"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22621.0",
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/includes/fltk-1.3.8/*"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+
+            }
+        }
+    ],
+    "version": 4
+}
